@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Teste do novo repositorio")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ADO")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2587264d4e6c9c6c33fc3e9bb1a4236cdd47fd4d")]
-[assembly: System.Reflection.AssemblyProductAttribute("Teste do novo repositorio")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Teste do novo repositorio")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6626f0c6aba0b04dbf2f0c8497d81b74279f78b3")]
+[assembly: System.Reflection.AssemblyProductAttribute("ADO")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ADO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

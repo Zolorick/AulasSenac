@@ -2,13 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.IO;
 using System.Threading.Tasks;
 
 namespace ADO
 {
     public class Classe1
     {
-       public int OpcaoValida, MenuOpcao;
+       public int OpcaoValida, MenuOpcao, Jogada;
        bool TudoValido = false;
 
         public int Menu() 
@@ -35,6 +36,32 @@ namespace ADO
             TudoValido = false;
 
             return MenuOpcao;
+        }
+
+        public int Jogo()
+        {
+            LimparValor(ref Jogada);
+
+            do 
+            {
+                Console.WriteLine();
+                Console.WriteLine(" Qual jogada gostaria de fazer?");
+                Console.WriteLine();
+
+                Console.WriteLine("1 - Pedra");
+                Console.WriteLine("2 - Papel");
+                Console.WriteLine("3 - Tesoura");
+                Console.WriteLine();
+
+
+                Checagem();
+
+            } while (TudoValido == false);
+
+            Jogada = OpcaoValida;
+            TudoValido = false;
+
+            return Jogada;
         }
 
         private bool Checagem()
