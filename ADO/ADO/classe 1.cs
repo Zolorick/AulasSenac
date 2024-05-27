@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace ADO
 {
-    public class Classe1
+    public class Classe1 : Arq
     {
-       public int OpcaoValida, MenuOpcao, Jogada;
+       public int OpcaoValida, MenuOpcao, JogadaJogador;
        bool TudoValido = false;
 
         public int Menu() 
@@ -40,7 +40,7 @@ namespace ADO
 
         public int Jogo()
         {
-            LimparValor(ref Jogada);
+            LimparValor(ref JogadaJogador);
 
             do 
             {
@@ -58,10 +58,10 @@ namespace ADO
 
             } while (TudoValido == false);
 
-            Jogada = OpcaoValida;
+            JogadaJogador = OpcaoValida;
             TudoValido = false;
 
-            return Jogada;
+            return JogadaJogador;
         }
 
         private bool Checagem()

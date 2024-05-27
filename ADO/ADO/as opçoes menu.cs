@@ -7,21 +7,30 @@ using System.Threading.Tasks;
 
 namespace ADO
 {
-     class as_opçoes_menu
+     public class as_opçoes_menu : Classe1 
     {
-        public void IniciarJogo() 
-        { 
-            Console.Write("oi 1");
+        Arq arq = new Arq();
+        public int IniciarJogo() 
+        {
+            Console.WriteLine("Vamos jogar, o primeiro a fazer tres pontos vence");
+            Console.WriteLine("Contra quem estou jogando?");
+
+            string nome = Console.ReadLine();
+
+            JogadaJogador = Jogo();
+
+            return JogadaJogador;
         }
 
-        public string Nome() 
+        public void Nome() 
         {
             Console.Write("oi 2");
         }
 
         public void ExibirResumo()
         {
-            Console.Write("oi 3");
+           CriandoArq(nome_arq);
+            LerArq(texto);
         }
 
         public void Sair()

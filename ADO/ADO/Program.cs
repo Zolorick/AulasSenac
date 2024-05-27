@@ -4,8 +4,10 @@ using ADO;
 
 Classe1 metodos = new Classe1();
 as_opçoes_menu acoes = new as_opçoes_menu();
+Arq arq = new Arq();
 
-int MenuOpcao, Jogada;
+
+int MenuOpcao, JogadaJogador, JogadaBot;
 
 MenuOpcao = metodos.Menu();
 
@@ -21,5 +23,15 @@ switch (MenuOpcao)
 
     case 3:
         acoes.Sair();
+    break;
+}
+
+JogadaJogador = 1;
+JogadaBot = 2;
+
+switch (JogadaJogador, JogadaBot) 
+{
+    case (1,1):
+
     break;
 }
