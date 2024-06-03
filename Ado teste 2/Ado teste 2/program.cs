@@ -103,3 +103,4 @@ do
 //fazendo com queue eu preciso fazer manualmente
 
 //caso aperte pra sair
+//escrevendo literalemnte qualquer coisa
