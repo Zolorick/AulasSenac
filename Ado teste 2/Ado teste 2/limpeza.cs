@@ -17,6 +17,7 @@ namespace Ado_teste_2
             _var = "";
         }
         
+        //depois da ADO fazer comandos de limpeza de tudo
         public static void LimparQueueString(ref Queue<string> _var) 
         {
             for (int i = 0; i < _var.Count; i++)

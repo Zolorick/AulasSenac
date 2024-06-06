@@ -9,7 +9,7 @@ namespace Ado_teste_2
     internal class Menus
     {
         string? nome, convertida, Resultado;
-        public int OpcaoValida, MenuOpcao, JogadaJogador,JogadaBot;
+        public int OpcaoValida, MenuOpcao, JogadaJogador, JogadaBot;
         bool TudoValido = false;
 
         public int Menu()
@@ -38,12 +38,12 @@ namespace Ado_teste_2
             return MenuOpcao;
         }
 
-        public string Name() 
+        public string Name()
         {
             Console.WriteLine("Contra quem estou jogando?");
             nome = Console.ReadLine();
             Console.WriteLine();
-            return nome;  
+            return nome;
         }
         public int Jogo(string nome, int PontosJogador, int PontosBot)
         {
@@ -73,43 +73,43 @@ namespace Ado_teste_2
             return JogadaJogador;
         }
 
-        public int JogoBot() 
+        public int JogoBot()
         {
             Random random = new Random();
             int OpcaoBot = random.Next(0, 2);
-            switch (OpcaoBot) 
+            switch (OpcaoBot)
             {
                 case 0:
                     JogadaBot = 1;
-                break;
+                    break;
 
                 case 1:
                     JogadaBot = 2;
-                break;
+                    break;
 
                 case 2:
                     JogadaBot = 3;
-                break;
+                    break;
             }
-            
+
             return JogadaBot;
         }
 
-        public string ConversaoJogada(int jogada) 
+        public string ConversaoJogada(int jogada)
         {
-            switch (jogada) 
+            switch (jogada)
             {
                 case 1:
                     convertida = "Pedra";
-                break;
+                    break;
 
                 case 2:
                     convertida = "Papel";
-                break;
+                    break;
 
                 case 3:
                     convertida = "Tesoura";
-                break;
+                    break;
 
             }
 
@@ -117,24 +117,33 @@ namespace Ado_teste_2
             return convertida;
         }
 
-        public string ResultadoRodada(int JogadaJogador, int JogadaBot, string ConvertidaJogador, string ConvertidaBot, string nome) 
+        public string ResultadoRodada(int JogadaJogador, int JogadaBot, string ConvertidaJogador, string ConvertidaBot, string nome)
         {
-            string vitoria = "";
             //referente ao jogador
-            switch (JogadaJogador, JogadaBot) 
+            switch (JogadaJogador, JogadaBot)
             {
                 case (1, 2):
                     break;
 
                 default:
-                    vitoria = "Oh não, empate!";
+                  Resultado = "empate";
                     break;
             }
 
-            Resultado = $" {vitoria}    {nome}: {ConvertidaJogador} x máquina: {ConvertidaBot}";
+            //precisa estar assim pro if de pontos funfar
+           // $"vitória {nome}"
+
+
             return Resultado;
         }
 
+        public void QuerSalvar()
+        {
+            Console.WriteLine();
+            Console.WriteLine("Você gostaria de salvar? (s/n)");
+            Console.WriteLine("Esteja ciente que inserir uma resposta invalida resultará no fechamento do programa sem salvar");
+            Console.WriteLine();
+        }
         public bool Checagem()
         {
             Limpeza.LimparNum(ref OpcaoValida);

@@ -3,23 +3,7 @@ using Ado_teste_2;
 using System.IO;
 using System.Runtime.CompilerServices;
 
-
-/*Exemplo de como usar os metodos de arquivo
-  
-fileManager.CreateTextFile(@"C:\Users\Maria\example.txt");
-
-// Adicionar texto ao arquivo
-fileManager.AppendTextToFile(@"C:Este Computador\example.txt", "Linha 1");
-fileManager.AppendTextToFile(@"C:\Users\Maria\example.txt", "Linha 2");
-fileManager.AppendTextToFile(@"C:\Users\Maria\example.txt", "Linha 3");
-
-// Ler o conteúdo do arquivo
-string fileContent = fileManager.ReadTextFile(@"C:\Users\Maria\example.txt");
-Console.WriteLine(fileContent);
-*/
-
 //1-pedra; 2-papel, 3-tesoura
-
 
 File_Manager files = new File_Manager();
 Menus menu = new Menus();
@@ -29,31 +13,29 @@ int PontosJogador = 0;
 int PontosBot = 0;
 int TotalPartidas = 0;
 int TotalVitorias = 0;
-string nome, texto,file_paht1,file_paht2, file_path3,ConvertidaJogador, ConvertidaBot,Resultado;
+string nome,file_paht1,file_paht2,ConvertidaJogador, ConvertidaBot,Resultado;
 
-Queue<string> JoJoHi = new Queue<string>();
-Queue<string> JoBot = new Queue<string>();
 
-file_paht1 = @$"C:\Users\Maria\OneDrive\Área de Trabalho\Historico de jogadas.txt";
-file_paht2 = @$"C:\Users\Maria\OneDrive\Área de Trabalho\total de vitorias.txt";
-file_path3 = @$"C:\Users\Maria\OneDrive\Área de Trabalho\nome.txt";
+file_paht1 = @$"C:\Users\Maria\OneDrive\Área de Trabalho\Historico de jogadas da ultima partida.txt";
+file_paht2 = @$"C:\Users\Maria\OneDrive\Área de Trabalho\Historico geral de jogo.txt";
 
-// por causa da "quer salvar" da tres eu nao posso deixar dentro da um os filepaths
 
 do
 {
     MenuOpcao = menu.Menu();
+    nome = menu.Name();
 
     switch (MenuOpcao)
     {
         case 1:
-            // despoluindo as queue e contagem de pontos, garantindo que eu nao as aumente com os dados do novo jogo
-            Limpeza.LimparQueueString(ref JoBot); 
-            Limpeza.LimparQueueString(ref JoJoHi);
+
+            // despoluindo contagem de pontos, garantindo que eu nao as aumente com os dados do novo jogo
             Limpeza.LimparNum(ref PontosJogador);
             Limpeza.LimparNum(ref PontosBot);
 
-            nome = menu.Name();
+            files.CriarOuSubstituir(file_paht1, $"Partida {TotalPartidas + 1}");
+            files.AddText(file_paht1, "");
+
             do
             {
                 JogadaJogador = menu.Jogo(nome, PontosJogador, PontosBot);
@@ -62,45 +44,57 @@ do
                ConvertidaBot = menu.ConversaoJogada(JogadaBot);
                ConvertidaJogador= menu.ConversaoJogada(JogadaBot);
 
-
+                //ainda nao terminei esse metodo
                 Resultado = menu.ResultadoRodada(JogadaJogador,JogadaBot,ConvertidaJogador, ConvertidaBot, nome);
 
+                files.AddText(file_paht1,$" {nome} usou {ConvertidaJogador}  e  máquina usou {ConvertidaBot}, portanto {Resultado}");
+
+                if (Resultado == $"vitória {nome}") 
+                { PontosJogador++; }
+                else { PontosBot++; }
 
             } while (PontosBot != 3 || PontosJogador != 3);
 
-            if (PontosJogador == 3)
-            { TotalVitorias++; }
-            TotalPartidas++;
-
-            // estutura pra passar pelas informações relevantes na partida e salvar de uma vez e de forma ordanizada
-            //esta incompleto e precisa ser feito
-            while (JoJoHi.Count > 0 && JoBot.Count > 0) 
+            if (PontosJogador == 3)  
             {
-
-                texto = $"";
-                Console.WriteLine(texto);
-                //uma linha pra, vitoria da rodada
-                //linha vazia pra ficar bonito
+                TotalVitorias++;
+                files.AddText(file_paht1,$" Vitória {nome}, parabéns!");
+            }
+            else 
+            {
+                files.AddText(file_paht1, $" Derrota {nome}, sinto muito");
             }
 
+            TotalPartidas++;
 
-            TotalPartidas ++;
+            
+
         break;
 
         case 2:
-            //eu posso fazer um array de tres lugares : nome, o arquivo do historico e o de total de vitorias? e exibir
-            files.ReadTextFile(file_paht1);
+            files.Exibir2( file_paht2, file_paht1);
         break;
 
         case 3:
+
+            menu.QuerSalvar();
+
+            string resposta = Console.ReadLine().ToLower();
+            
+            if (resposta == "s" || resposta == "sim" || resposta == "y" || resposta == "yep" || resposta == "yes") 
+            {
+                files.CriarOuSubstituir(file_paht2, $"Jogador: {nome}");
+                files.AddText(file_paht2,$" De {TotalPartidas} você venceu {TotalVitorias} vezes");
+                files.AddText(file_paht2,"");
+                files.AddText(file_paht2,"A seguir está o histórico da última partida");
+                // ja estara salvo o historico, eu nao preciso colocar de novo
+            }
+
+            Console.WriteLine();
+            Console.WriteLine("Obrigada por jogar, estamos prontos para encerrar");
+            Console.WriteLine("Fechando o programa");
+
         break;
     }
 
 } while (MenuOpcao != 3 );
-
-
-//eu deveria fazer uma pilha com os arquivos pra poder puxar o certo na opção 3 ou isso é meio automatico?
-//fazendo com queue eu preciso fazer manualmente
-
-//caso aperte pra sair
-//escrevendo literalemnte qualquer coisa

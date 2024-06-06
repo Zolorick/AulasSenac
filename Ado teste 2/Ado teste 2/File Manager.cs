@@ -10,22 +10,11 @@ namespace Ado_teste_2
     {
         // "filePath" = O caminho completo do arquivo a ser criado ou usado.  
         //try-catch = trata exeções sem quebrar tudo
-        public void CreateTextFile(string filePath)
-            {
-                try
-                {
-                    File.Create(filePath).Close();
-                }
-                catch (Exception)
-                {
-                    Console.WriteLine("Erro ao criar o arquivo");
-                }
-           
-            }
+     
 
         // Adiciona uma linha de texto ao arquivo especificado.
         //"text" = O texto a ser adicionado ao arquivo.
-        public void AppendTextToFile(string filePath, string text)
+        public void AddText(string filePath, string text)
             {
                 try
                 {
@@ -38,7 +27,7 @@ namespace Ado_teste_2
             }
 
         // Lê o conteúdo de um arquivo de texto.
-        public void ReadTextFile(string filePath)
+        public void Ler(string filePath)
             {
                 try
                 {
@@ -54,33 +43,29 @@ namespace Ado_teste_2
             }
 
         //substitui o texto em um arquivo
-        public void ReplaceTextFile(string filePath, string newText)
+        public void CriarOuSubstituir(string filePath, string newText)
         {
             try
             {
-                
-                string content = File.ReadAllText(filePath);
+
                 File.WriteAllText(filePath, newText);
 
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                Console.WriteLine($"Erro ao substituir o conteúdo do arquivo: {ex.Message}");
+                Console.WriteLine($"Erro ao criar ou substituir o arquivo");
             }
         }
 
-
-        public void SalvarJogo(string filePath, string texto, string nome) 
+        public void Exibir2(string file_path2, string file_paht1) 
         {
+            Console.WriteLine();
+            Console.WriteLine("Exibindo o histórico da última partida");
+            Console.WriteLine();
 
-            CreateTextFile(filePath);
-            texto = $"Jogador: {nome}";
-            AppendTextToFile(filePath, texto);
-
-            //fazer um foreach que passe por duas pilhas ou filar de forma alternada que contem as jogadas do jogador e do bot; fazer com que diga "vitoria....
-            //posso fazer com que a cada ponto se crie uma nova pilha e uma nova tabelinha pra manter bonito"
+            Ler(file_path2);
+            Ler(file_paht1);
 
         }
-
     }
 }
