@@ -1,0 +1,11 @@
+Partida 1
+gfs usou Papel  e  máquina usou Papel, portanto empate
+gfs usou Papel  e  máquina usou Papel, portanto empate
+gfs usou Papel  e  máquina usou Papel, portanto empate
+gfs usou Pedra  e  máquina usou Papel, portanto vitória máquina
+gfs usou Pedra  e  máquina usou Papel, portanto vitória máquina
+gfs usou Pedra  e  máquina usou Pedra, portanto empate
+gfs usou Pedra  e  máquina usou Pedra, portanto empate
+gfs usou Pedra  e  máquina usou Pedra, portanto empate
+gfs usou Pedra  e  máquina usou Papel, portanto vitória máquina
+ Derrota gfs, sinto muito

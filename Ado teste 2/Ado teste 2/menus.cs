@@ -19,8 +19,8 @@ namespace Ado_teste_2
             do
             {
                 Console.WriteLine();
-                Console.WriteLine("Bem-vindo, vamos jogar Pedra, papel e tesoura?");
-                Console.WriteLine(" O que gostaria de fazer?");
+                Console.WriteLine("Vamos jogar Pedra, papel e tesoura?");
+                Console.WriteLine("O que gostaria de fazer?");
                 Console.WriteLine();
 
                 Console.WriteLine("1 - iniciar jogo");
@@ -40,7 +40,8 @@ namespace Ado_teste_2
 
         public string Name()
         {
-            Console.WriteLine("Contra quem estou jogando?");
+            Console.WriteLine();
+            Console.WriteLine("Olá, com quem vou jogar hoje?");
             nome = Console.ReadLine();
             Console.WriteLine();
             return nome;
@@ -51,6 +52,7 @@ namespace Ado_teste_2
 
             do
             {
+                Console.WriteLine();
                 Console.WriteLine($"Esse é o nosso placar atual {nome}");
                 Console.WriteLine($"{nome}: {PontosJogador}     x     Maquina: {PontosBot}");
                 Console.WriteLine();
@@ -76,21 +78,7 @@ namespace Ado_teste_2
         public int JogoBot()
         {
             Random random = new Random();
-            int OpcaoBot = random.Next(0, 2);
-            switch (OpcaoBot)
-            {
-                case 0:
-                    JogadaBot = 1;
-                    break;
-
-                case 1:
-                    JogadaBot = 2;
-                    break;
-
-                case 2:
-                    JogadaBot = 3;
-                    break;
-            }
+            JogadaBot = random.Next(1, 3);
 
             return JogadaBot;
         }
@@ -111,29 +99,31 @@ namespace Ado_teste_2
                     convertida = "Tesoura";
                     break;
 
+                default:
+                    Console.WriteLine("erro na conversao das jogada");
+                    break;
             }
 
 
             return convertida;
         }
 
-        public string ResultadoRodada(int JogadaJogador, int JogadaBot, string ConvertidaJogador, string ConvertidaBot, string nome)
+        public string ResultadoRodada(int JogadaJogador, int JogadaBot, string nome)
         {
-            //referente ao jogador
-            switch (JogadaJogador, JogadaBot)
+            if (JogadaJogador == JogadaBot)
             {
-                case (1, 2):
-                    break;
-
-                default:
-                  Resultado = "empate";
-                    break;
+                Resultado = "empate";
             }
-
-            //precisa estar assim pro if de pontos funfar
-           // $"vitória {nome}"
-
-
+            else if ((JogadaJogador == 1 && JogadaBot == 3) ||
+                     (JogadaJogador == 2 && JogadaBot == 1) ||
+                     (JogadaJogador == 3 && JogadaBot == 2))
+            {
+                Resultado = $"vitória {nome}";
+            }
+            else
+            {
+                Resultado = "vitória máquina";
+            }
             return Resultado;
         }
 

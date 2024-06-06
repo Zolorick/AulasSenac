@@ -18,7 +18,7 @@ namespace Ado_teste_2
             {
                 try
                 {
-                    File.AppendAllText(filePath, text);
+                    File.AppendAllText(filePath, text + Environment.NewLine);
                 }
                 catch (Exception)
                 {
@@ -33,7 +33,7 @@ namespace Ado_teste_2
                 {
                     // Lê o conteúdo do arquivo
                     string content = File.ReadAllText(filePath);
-         
+                    Console.WriteLine(content);
                 }
                 catch (Exception)
                 {
@@ -57,13 +57,13 @@ namespace Ado_teste_2
             }
         }
 
-        public void Exibir2(string file_path2, string file_paht1) 
+        public void Exibir2(string file_paht1, int TotalVitorias, int TotalPartidas) 
         {
             Console.WriteLine();
             Console.WriteLine("Exibindo o histórico da última partida");
             Console.WriteLine();
 
-            Ler(file_path2);
+            Console.WriteLine($"{TotalVitorias} Vitórias de {TotalPartidas} partidas jogadas na última execução do programa");
             Ler(file_paht1);
 
         }

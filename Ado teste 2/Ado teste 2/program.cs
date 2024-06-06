@@ -15,56 +15,83 @@ int TotalPartidas = 0;
 int TotalVitorias = 0;
 string nome,file_paht1,file_paht2,ConvertidaJogador, ConvertidaBot,Resultado;
 
+//string caminho = "C:\\Users\\Maria\\source\\GitHub\\AulasSenac\\Ado teste 2\\Ado teste 2";
 
-file_paht1 = @$"C:\Users\Maria\OneDrive\Área de Trabalho\Historico de jogadas da ultima partida.txt";
-file_paht2 = @$"C:\Users\Maria\OneDrive\Área de Trabalho\Historico geral de jogo.txt";
+file_paht1 = @$"C:\Users\Maria\source\GitHub\AulasSenac\Ado teste 2\Ado teste 2\Historico de jogadas da ultima partida.txt";
+file_paht2 = @$"C:\Users\Maria\source\GitHub\AulasSenac\Ado teste 2\Ado teste 2\ Historico geral de jogo.txt";
 
 
 do
 {
+   
     MenuOpcao = menu.Menu();
-    nome = menu.Name();
-
+   
     switch (MenuOpcao)
     {
         case 1:
 
+            
             // despoluindo contagem de pontos, garantindo que eu nao as aumente com os dados do novo jogo
             Limpeza.LimparNum(ref PontosJogador);
             Limpeza.LimparNum(ref PontosBot);
 
             files.CriarOuSubstituir(file_paht1, $"Partida {TotalPartidas + 1}");
             files.AddText(file_paht1, "");
-
+            nome = menu.Name();
             do
             {
                 JogadaJogador = menu.Jogo(nome, PontosJogador, PontosBot);
                 JogadaBot = menu.JogoBot();
 
                ConvertidaBot = menu.ConversaoJogada(JogadaBot);
-               ConvertidaJogador= menu.ConversaoJogada(JogadaBot);
+               ConvertidaJogador= menu.ConversaoJogada(JogadaJogador);
 
-                //ainda nao terminei esse metodo
-                Resultado = menu.ResultadoRodada(JogadaJogador,JogadaBot,ConvertidaJogador, ConvertidaBot, nome);
+                Console.WriteLine();
+                Console.WriteLine($"A máquina escolhe {ConvertidaBot} ");
+                Console.WriteLine();
+                
+                Resultado = menu.ResultadoRodada(JogadaJogador,JogadaBot, nome);
 
-                files.AddText(file_paht1,$" {nome} usou {ConvertidaJogador}  e  máquina usou {ConvertidaBot}, portanto {Resultado}");
+                string exibir = $"{nome} usou {ConvertidaJogador}  e  máquina usou {ConvertidaBot}, portanto {Resultado}";
+                Console.WriteLine(exibir);
+                Console.WriteLine();
+                Console.WriteLine();
+
+                files.AddText(file_paht1,exibir);
 
                 if (Resultado == $"vitória {nome}") 
-                { PontosJogador++; }
-                else { PontosBot++; }
+                { 
+                    PontosJogador++; 
+                }
+                else if (Resultado == "vitória máquina")
+                { 
+                    PontosBot++; 
+                }
+                else if (Resultado == "empate")
+                { Console.WriteLine("Ninguém ganha pontos nessa rodada"); }
 
-            } while (PontosBot != 3 || PontosJogador != 3);
+                Limpeza.LimparString(ref ConvertidaBot);
+                Limpeza.LimparString(ref ConvertidaJogador);
+                Limpeza.LimparNum(ref JogadaJogador);
+                Limpeza.LimparNum(ref JogadaBot);
 
-            if (PontosJogador == 3)  
+               
+
+            } while (PontosBot < 3 && PontosJogador < 3);
+
+            string parabens;
+            if (PontosJogador == 3)
             {
                 TotalVitorias++;
-                files.AddText(file_paht1,$" Vitória {nome}, parabéns!");
+                parabens = $"Vitória {nome}, parabéns! Você chegou a três pontos.";
             }
-            else 
+            else
             {
-                files.AddText(file_paht1, $" Derrota {nome}, sinto muito");
+                parabens = $"Derrota {nome}, sinto muito. A máquina chegou a três pontos";
             }
 
+            files.AddText(file_paht1, parabens);
+            Console.WriteLine(parabens);
             TotalPartidas++;
 
             
@@ -72,7 +99,7 @@ do
         break;
 
         case 2:
-            files.Exibir2( file_paht2, file_paht1);
+            files.Exibir2(file_paht1, TotalVitorias, TotalPartidas);
         break;
 
         case 3:
@@ -83,8 +110,7 @@ do
             
             if (resposta == "s" || resposta == "sim" || resposta == "y" || resposta == "yep" || resposta == "yes") 
             {
-                files.CriarOuSubstituir(file_paht2, $"Jogador: {nome}");
-                files.AddText(file_paht2,$" De {TotalPartidas} você venceu {TotalVitorias} vezes");
+                files.CriarOuSubstituir(file_paht2,$"De {TotalPartidas} você venceu {TotalVitorias} vezes");
                 files.AddText(file_paht2,"");
                 files.AddText(file_paht2,"A seguir está o histórico da última partida");
                 // ja estara salvo o historico, eu nao preciso colocar de novo

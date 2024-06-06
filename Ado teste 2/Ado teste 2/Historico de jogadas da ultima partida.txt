@@ -1,0 +1,6 @@
+Partida 1
+.. usou Pedra  e  máquina usou Papel, portanto vitória máquina
+.. usou Pedra  e  máquina usou Pedra, portanto empate
+.. usou Pedra  e  máquina usou Papel, portanto vitória máquina
+.. usou Pedra  e  máquina usou Papel, portanto vitória máquina
+Derrota .., sinto muito. A máquina chegou a três pontos
