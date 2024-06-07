@@ -37,7 +37,7 @@ namespace Ado_teste_2
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("Erro ao ler o arquivo");
+                    Console.WriteLine("Erro ao ler o arquivo ou ele não existe");
                     
                 }
             }
@@ -57,15 +57,18 @@ namespace Ado_teste_2
             }
         }
 
-        public void Exibir2(string file_paht1, int TotalVitorias, int TotalPartidas) 
+        public void Exibir2(string file_paht1, string file_paht2, int TotalVitorias, int TotalPartidas) 
         {
             Console.WriteLine();
-            Console.WriteLine("Exibindo o histórico da última partida");
+            Console.WriteLine("Exibindo o histórico");
             Console.WriteLine();
 
-            Console.WriteLine($"{TotalVitorias} Vitórias de {TotalPartidas} partidas jogadas na última execução do programa");
+            Console.WriteLine($"{TotalVitorias} Vitórias de {TotalPartidas} partidas jogadas na execução atual do programa");
             Ler(file_paht1);
-
+            Console.WriteLine();
+            Console.WriteLine("Aviso: Caso nunca tenha salvo o jogo usando a opção 3 aparecerá um erro de leitura de arquivo, não se preucupe");
+            Ler(file_paht2);
+            Console.WriteLine();
         }
     }
 }

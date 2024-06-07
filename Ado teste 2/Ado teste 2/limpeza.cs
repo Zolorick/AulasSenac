@@ -8,6 +8,7 @@ namespace Ado_teste_2
 {
     internal class Limpeza
     {
+        //abandonei o usoo de queue, mas vou deixar esse metodo para referencia futura
         public static void LimparNum(ref int _var)
         {
             _var = 0;

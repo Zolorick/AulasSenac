@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ado teste 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7d440740008454de7aaf65de900ef071696ee04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab50f505a4dcb8a2e6411d6dcdbb5af0f8928fbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ado teste 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ado teste 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

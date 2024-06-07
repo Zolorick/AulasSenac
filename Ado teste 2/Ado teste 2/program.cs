@@ -90,6 +90,7 @@ do
                 parabens = $"Derrota {nome}, sinto muito. A máquina chegou a três pontos";
             }
 
+            files.AddText(file_paht1, "");
             files.AddText(file_paht1, parabens);
             Console.WriteLine(parabens);
             TotalPartidas++;
@@ -99,7 +100,7 @@ do
         break;
 
         case 2:
-            files.Exibir2(file_paht1, TotalVitorias, TotalPartidas);
+            files.Exibir2(file_paht1, file_paht2, TotalVitorias, TotalPartidas);
         break;
 
         case 3:
@@ -110,9 +111,10 @@ do
             
             if (resposta == "s" || resposta == "sim" || resposta == "y" || resposta == "yep" || resposta == "yes") 
             {
-                files.CriarOuSubstituir(file_paht2,$"De {TotalPartidas} você venceu {TotalVitorias} vezes");
+                files.CriarOuSubstituir(file_paht2,"Este é o seu histórico da última execução do programa");
+                files.AddText(file_paht2,$"De {TotalPartidas} você venceu {TotalVitorias} vezes");
                 files.AddText(file_paht2,"");
-                files.AddText(file_paht2,"A seguir está o histórico da última partida");
+       
                 // ja estara salvo o historico, eu nao preciso colocar de novo
             }
 
