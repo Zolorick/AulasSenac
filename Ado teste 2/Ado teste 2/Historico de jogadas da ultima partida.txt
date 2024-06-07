@@ -1,8 +1,0 @@
-Partida 1
-çncf usou Papel  e  máquina usou Pedra, portanto vitória çncf
-çncf usou Papel  e  máquina usou Papel, portanto empate
-çncf usou Tesoura  e  máquina usou Pedra, portanto vitória máquina
-çncf usou Pedra  e  máquina usou Papel, portanto vitória máquina
-çncf usou Papel  e  máquina usou Pedra, portanto vitória çncf
-çncf usou Tesoura  e  máquina usou Papel, portanto vitória çncf
-Vitória çncf, parabéns! Você chegou a três pontos.
