@@ -1,0 +1,15 @@
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\fisica para jogos\trajeto bala de canhão\trajeto bala de canhão\obj\Debug\net8.0\trajeto bala de canhão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\fisica para jogos\trajeto bala de canhão\trajeto bala de canhão\obj\Debug\net8.0\trajeto bala de canhão.AssemblyInfoInputs.cache
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\fisica para jogos\trajeto bala de canhão\trajeto bala de canhão\obj\Debug\net8.0\trajeto bala de canhão.AssemblyInfo.cs
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\fisica para jogos\trajeto bala de canhão\trajeto bala de canhão\obj\Debug\net8.0\trajeto bala de canhão.csproj.CoreCompileInputs.cache
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\fisica para jogos\trajeto bala de canhão\trajeto bala de canhão\obj\Debug\net8.0\trajeto bala de canhão.sourcelink.json
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\fisica para jogos\trajeto bala de canhão\trajeto bala de canhão\bin\Debug\net8.0\trajeto bala de canhão.exe
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\fisica para jogos\trajeto bala de canhão\trajeto bala de canhão\bin\Debug\net8.0\trajeto bala de canhão.deps.json
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\fisica para jogos\trajeto bala de canhão\trajeto bala de canhão\bin\Debug\net8.0\trajeto bala de canhão.runtimeconfig.json
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\fisica para jogos\trajeto bala de canhão\trajeto bala de canhão\bin\Debug\net8.0\trajeto bala de canhão.dll
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\fisica para jogos\trajeto bala de canhão\trajeto bala de canhão\bin\Debug\net8.0\trajeto bala de canhão.pdb
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\fisica para jogos\trajeto bala de canhão\trajeto bala de canhão\obj\Debug\net8.0\trajeto bala de canhão.dll
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\fisica para jogos\trajeto bala de canhão\trajeto bala de canhão\obj\Debug\net8.0\refint\trajeto bala de canhão.dll
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\fisica para jogos\trajeto bala de canhão\trajeto bala de canhão\obj\Debug\net8.0\trajeto bala de canhão.pdb
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\fisica para jogos\trajeto bala de canhão\trajeto bala de canhão\obj\Debug\net8.0\trajeto bala de canhão.genruntimeconfig.cache
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\fisica para jogos\trajeto bala de canhão\trajeto bala de canhão\obj\Debug\net8.0\ref\trajeto bala de canhão.dll
