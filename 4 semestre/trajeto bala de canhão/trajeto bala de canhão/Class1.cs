@@ -12,43 +12,42 @@ namespace Trajeto_bala_de_canhão
         public double velocidadeInicial { get; set; }
         public double anguloLancamento { get; set; }
 
-        public void entrada()
+        public void Lancamento()
         {
 
-            Console.Write("Digite a velocidade inicial (m/s): ");
+            Console.Write("Qual a velocidade inicial do lancamento? (m/s): ");
             velocidadeInicial = Convert.ToDouble(Console.ReadLine());
 
-            Console.Write("Digite o ângulo de lançamento (graus): ");
+            Console.Write("Qual o ângulo de lançamento? (graus): ");
             anguloLancamento = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine();
-            Console.WriteLine();
         }
 
-        public void linha()
+        public void Linha()
         {
 
             Console.WriteLine();
 
             for (int i = 0; i < 50; i++)
             {
-                Console.Write("-");
+                Console.Write("*");
             }
 
             Console.WriteLine();
 
         }
 
-        public void linhaIgual()
+        public void OutraLinha()
         {
 
             Console.WriteLine();
 
-            for (int i = 0; i < 50; i++)
+            for (int i = 0; i < 20; i++)
             {
-                Console.Write("=");
+                Console.Write("°_° ");
             }
 
+            Console.WriteLine();
             Console.WriteLine();
 
         }

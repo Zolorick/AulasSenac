@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("trajeto bala de canhão")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77b6f62a30d1e289f1a93d83192c935588d7f36f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("trajeto bala de canhão")]
 [assembly: System.Reflection.AssemblyTitleAttribute("trajeto bala de canhão")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
