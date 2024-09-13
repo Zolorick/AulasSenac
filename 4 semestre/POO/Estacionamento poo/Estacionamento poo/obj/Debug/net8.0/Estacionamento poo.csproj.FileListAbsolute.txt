@@ -1,0 +1,29 @@
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\POO\Estacionamento poo\Estacionamento poo\bin\Debug\net8.0\Estacionamento poo.exe
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\POO\Estacionamento poo\Estacionamento poo\bin\Debug\net8.0\Estacionamento poo.deps.json
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\POO\Estacionamento poo\Estacionamento poo\bin\Debug\net8.0\Estacionamento poo.runtimeconfig.json
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\POO\Estacionamento poo\Estacionamento poo\bin\Debug\net8.0\Estacionamento poo.dll
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\POO\Estacionamento poo\Estacionamento poo\bin\Debug\net8.0\Estacionamento poo.pdb
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\POO\Estacionamento poo\Estacionamento poo\obj\Debug\net8.0\Estacionamento poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\POO\Estacionamento poo\Estacionamento poo\obj\Debug\net8.0\Estacionamento poo.AssemblyInfoInputs.cache
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\POO\Estacionamento poo\Estacionamento poo\obj\Debug\net8.0\Estacionamento poo.AssemblyInfo.cs
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\POO\Estacionamento poo\Estacionamento poo\obj\Debug\net8.0\Estacionamento poo.csproj.CoreCompileInputs.cache
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\POO\Estacionamento poo\Estacionamento poo\obj\Debug\net8.0\Estacionamento poo.sourcelink.json
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\POO\Estacionamento poo\Estacionamento poo\obj\Debug\net8.0\Estacionamento poo.dll
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\POO\Estacionamento poo\Estacionamento poo\obj\Debug\net8.0\refint\Estacionamento poo.dll
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\POO\Estacionamento poo\Estacionamento poo\obj\Debug\net8.0\Estacionamento poo.pdb
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\POO\Estacionamento poo\Estacionamento poo\obj\Debug\net8.0\Estacionamento poo.genruntimeconfig.cache
+C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\4 semestre\POO\Estacionamento poo\Estacionamento poo\obj\Debug\net8.0\ref\Estacionamento poo.dll
+C:\Users\maria.laholanda\source\repos\Estacionamento poo\Estacionamento poo\bin\Debug\net8.0\Estacionamento poo.exe
+C:\Users\maria.laholanda\source\repos\Estacionamento poo\Estacionamento poo\bin\Debug\net8.0\Estacionamento poo.deps.json
+C:\Users\maria.laholanda\source\repos\Estacionamento poo\Estacionamento poo\bin\Debug\net8.0\Estacionamento poo.runtimeconfig.json
+C:\Users\maria.laholanda\source\repos\Estacionamento poo\Estacionamento poo\bin\Debug\net8.0\Estacionamento poo.dll
+C:\Users\maria.laholanda\source\repos\Estacionamento poo\Estacionamento poo\bin\Debug\net8.0\Estacionamento poo.pdb
+C:\Users\maria.laholanda\source\repos\Estacionamento poo\Estacionamento poo\obj\Debug\net8.0\Estacionamento poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.laholanda\source\repos\Estacionamento poo\Estacionamento poo\obj\Debug\net8.0\Estacionamento poo.AssemblyInfoInputs.cache
+C:\Users\maria.laholanda\source\repos\Estacionamento poo\Estacionamento poo\obj\Debug\net8.0\Estacionamento poo.AssemblyInfo.cs
+C:\Users\maria.laholanda\source\repos\Estacionamento poo\Estacionamento poo\obj\Debug\net8.0\Estacionamento poo.csproj.CoreCompileInputs.cache
+C:\Users\maria.laholanda\source\repos\Estacionamento poo\Estacionamento poo\obj\Debug\net8.0\Estacionamento poo.dll
+C:\Users\maria.laholanda\source\repos\Estacionamento poo\Estacionamento poo\obj\Debug\net8.0\refint\Estacionamento poo.dll
+C:\Users\maria.laholanda\source\repos\Estacionamento poo\Estacionamento poo\obj\Debug\net8.0\Estacionamento poo.pdb
+C:\Users\maria.laholanda\source\repos\Estacionamento poo\Estacionamento poo\obj\Debug\net8.0\Estacionamento poo.genruntimeconfig.cache
+C:\Users\maria.laholanda\source\repos\Estacionamento poo\Estacionamento poo\obj\Debug\net8.0\ref\Estacionamento poo.dll
