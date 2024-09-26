@@ -1,0 +1,14 @@
+C:\Users\maria.laholanda\source\repos\Exercicio_pre_claudio\Exercicio_pre_claudio\bin\Debug\net8.0\Exercicio1.exe
+C:\Users\maria.laholanda\source\repos\Exercicio_pre_claudio\Exercicio_pre_claudio\bin\Debug\net8.0\Exercicio1.deps.json
+C:\Users\maria.laholanda\source\repos\Exercicio_pre_claudio\Exercicio_pre_claudio\bin\Debug\net8.0\Exercicio1.runtimeconfig.json
+C:\Users\maria.laholanda\source\repos\Exercicio_pre_claudio\Exercicio_pre_claudio\bin\Debug\net8.0\Exercicio1.dll
+C:\Users\maria.laholanda\source\repos\Exercicio_pre_claudio\Exercicio_pre_claudio\bin\Debug\net8.0\Exercicio1.pdb
+C:\Users\maria.laholanda\source\repos\Exercicio_pre_claudio\Exercicio_pre_claudio\obj\Debug\net8.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.laholanda\source\repos\Exercicio_pre_claudio\Exercicio_pre_claudio\obj\Debug\net8.0\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\maria.laholanda\source\repos\Exercicio_pre_claudio\Exercicio_pre_claudio\obj\Debug\net8.0\Exercicio1.AssemblyInfo.cs
+C:\Users\maria.laholanda\source\repos\Exercicio_pre_claudio\Exercicio_pre_claudio\obj\Debug\net8.0\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\maria.laholanda\source\repos\Exercicio_pre_claudio\Exercicio_pre_claudio\obj\Debug\net8.0\Exercicio1.dll
+C:\Users\maria.laholanda\source\repos\Exercicio_pre_claudio\Exercicio_pre_claudio\obj\Debug\net8.0\refint\Exercicio1.dll
+C:\Users\maria.laholanda\source\repos\Exercicio_pre_claudio\Exercicio_pre_claudio\obj\Debug\net8.0\Exercicio1.pdb
+C:\Users\maria.laholanda\source\repos\Exercicio_pre_claudio\Exercicio_pre_claudio\obj\Debug\net8.0\Exercicio1.genruntimeconfig.cache
+C:\Users\maria.laholanda\source\repos\Exercicio_pre_claudio\Exercicio_pre_claudio\obj\Debug\net8.0\ref\Exercicio1.dll
