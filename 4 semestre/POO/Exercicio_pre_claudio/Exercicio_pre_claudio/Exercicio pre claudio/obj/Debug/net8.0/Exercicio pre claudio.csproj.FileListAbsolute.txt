@@ -1,0 +1,15 @@
+C:\Users\Maria\source\GitHub\AulasSenac\4 semestre\POO\Exercicio_pre_claudio\Exercicio_pre_claudio\Exercicio pre claudio\bin\Debug\net8.0\Exercicio pre claudio.exe
+C:\Users\Maria\source\GitHub\AulasSenac\4 semestre\POO\Exercicio_pre_claudio\Exercicio_pre_claudio\Exercicio pre claudio\bin\Debug\net8.0\Exercicio pre claudio.deps.json
+C:\Users\Maria\source\GitHub\AulasSenac\4 semestre\POO\Exercicio_pre_claudio\Exercicio_pre_claudio\Exercicio pre claudio\bin\Debug\net8.0\Exercicio pre claudio.runtimeconfig.json
+C:\Users\Maria\source\GitHub\AulasSenac\4 semestre\POO\Exercicio_pre_claudio\Exercicio_pre_claudio\Exercicio pre claudio\bin\Debug\net8.0\Exercicio pre claudio.dll
+C:\Users\Maria\source\GitHub\AulasSenac\4 semestre\POO\Exercicio_pre_claudio\Exercicio_pre_claudio\Exercicio pre claudio\bin\Debug\net8.0\Exercicio pre claudio.pdb
+C:\Users\Maria\source\GitHub\AulasSenac\4 semestre\POO\Exercicio_pre_claudio\Exercicio_pre_claudio\Exercicio pre claudio\obj\Debug\net8.0\Exercicio pre claudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\source\GitHub\AulasSenac\4 semestre\POO\Exercicio_pre_claudio\Exercicio_pre_claudio\Exercicio pre claudio\obj\Debug\net8.0\Exercicio pre claudio.AssemblyInfoInputs.cache
+C:\Users\Maria\source\GitHub\AulasSenac\4 semestre\POO\Exercicio_pre_claudio\Exercicio_pre_claudio\Exercicio pre claudio\obj\Debug\net8.0\Exercicio pre claudio.AssemblyInfo.cs
+C:\Users\Maria\source\GitHub\AulasSenac\4 semestre\POO\Exercicio_pre_claudio\Exercicio_pre_claudio\Exercicio pre claudio\obj\Debug\net8.0\Exercicio pre claudio.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\GitHub\AulasSenac\4 semestre\POO\Exercicio_pre_claudio\Exercicio_pre_claudio\Exercicio pre claudio\obj\Debug\net8.0\Exercicio pre claudio.sourcelink.json
+C:\Users\Maria\source\GitHub\AulasSenac\4 semestre\POO\Exercicio_pre_claudio\Exercicio_pre_claudio\Exercicio pre claudio\obj\Debug\net8.0\Exercicio pre claudio.dll
+C:\Users\Maria\source\GitHub\AulasSenac\4 semestre\POO\Exercicio_pre_claudio\Exercicio_pre_claudio\Exercicio pre claudio\obj\Debug\net8.0\refint\Exercicio pre claudio.dll
+C:\Users\Maria\source\GitHub\AulasSenac\4 semestre\POO\Exercicio_pre_claudio\Exercicio_pre_claudio\Exercicio pre claudio\obj\Debug\net8.0\Exercicio pre claudio.pdb
+C:\Users\Maria\source\GitHub\AulasSenac\4 semestre\POO\Exercicio_pre_claudio\Exercicio_pre_claudio\Exercicio pre claudio\obj\Debug\net8.0\Exercicio pre claudio.genruntimeconfig.cache
+C:\Users\Maria\source\GitHub\AulasSenac\4 semestre\POO\Exercicio_pre_claudio\Exercicio_pre_claudio\Exercicio pre claudio\obj\Debug\net8.0\ref\Exercicio pre claudio.dll
