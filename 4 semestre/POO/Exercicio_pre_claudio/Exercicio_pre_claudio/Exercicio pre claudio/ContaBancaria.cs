@@ -10,7 +10,8 @@ namespace Exercicio1
     {
         //protegendo meus valores
         private int NumeroConta;
-        private double Saldo;
+        private double Saldo; 
+
 
         //Construtor com parrametros
         public ContaBancaria(int numero, double dinheiro)
@@ -25,7 +26,7 @@ namespace Exercicio1
 
             get => NumeroConta; 
             private set => NumeroConta = value;
-
+            
         }
 
         public double _Saldo
