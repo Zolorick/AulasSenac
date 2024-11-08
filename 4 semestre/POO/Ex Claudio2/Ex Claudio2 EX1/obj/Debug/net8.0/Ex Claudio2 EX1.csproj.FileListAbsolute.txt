@@ -1,0 +1,14 @@
+C:\Users\maria.laholanda\source\repos\Ex Claudio2\Ex Claudio2 EX1\bin\Debug\net8.0\Ex Claudio2 EX1.exe
+C:\Users\maria.laholanda\source\repos\Ex Claudio2\Ex Claudio2 EX1\bin\Debug\net8.0\Ex Claudio2 EX1.deps.json
+C:\Users\maria.laholanda\source\repos\Ex Claudio2\Ex Claudio2 EX1\bin\Debug\net8.0\Ex Claudio2 EX1.runtimeconfig.json
+C:\Users\maria.laholanda\source\repos\Ex Claudio2\Ex Claudio2 EX1\bin\Debug\net8.0\Ex Claudio2 EX1.dll
+C:\Users\maria.laholanda\source\repos\Ex Claudio2\Ex Claudio2 EX1\bin\Debug\net8.0\Ex Claudio2 EX1.pdb
+C:\Users\maria.laholanda\source\repos\Ex Claudio2\Ex Claudio2 EX1\obj\Debug\net8.0\Ex Claudio2 EX1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.laholanda\source\repos\Ex Claudio2\Ex Claudio2 EX1\obj\Debug\net8.0\Ex Claudio2 EX1.AssemblyInfoInputs.cache
+C:\Users\maria.laholanda\source\repos\Ex Claudio2\Ex Claudio2 EX1\obj\Debug\net8.0\Ex Claudio2 EX1.AssemblyInfo.cs
+C:\Users\maria.laholanda\source\repos\Ex Claudio2\Ex Claudio2 EX1\obj\Debug\net8.0\Ex Claudio2 EX1.csproj.CoreCompileInputs.cache
+C:\Users\maria.laholanda\source\repos\Ex Claudio2\Ex Claudio2 EX1\obj\Debug\net8.0\Ex Claudio2 EX1.dll
+C:\Users\maria.laholanda\source\repos\Ex Claudio2\Ex Claudio2 EX1\obj\Debug\net8.0\refint\Ex Claudio2 EX1.dll
+C:\Users\maria.laholanda\source\repos\Ex Claudio2\Ex Claudio2 EX1\obj\Debug\net8.0\Ex Claudio2 EX1.pdb
+C:\Users\maria.laholanda\source\repos\Ex Claudio2\Ex Claudio2 EX1\obj\Debug\net8.0\Ex Claudio2 EX1.genruntimeconfig.cache
+C:\Users\maria.laholanda\source\repos\Ex Claudio2\Ex Claudio2 EX1\obj\Debug\net8.0\ref\Ex Claudio2 EX1.dll
