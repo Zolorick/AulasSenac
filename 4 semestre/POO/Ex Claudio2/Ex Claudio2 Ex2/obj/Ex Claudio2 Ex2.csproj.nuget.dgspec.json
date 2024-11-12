@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maria.laholanda\\source\\repos\\Ex Claudio2\\Ex Claudio2 Ex2\\Ex Claudio2 Ex2.csproj": {}
+    "C:\\Users\\maria.laholanda\\source\\Ex Claudio2\\Ex Claudio2 Ex2\\Ex Claudio2 Ex2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maria.laholanda\\source\\repos\\Ex Claudio2\\Ex Claudio2 Ex2\\Ex Claudio2 Ex2.csproj": {
+    "C:\\Users\\maria.laholanda\\source\\Ex Claudio2\\Ex Claudio2 Ex2\\Ex Claudio2 Ex2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria.laholanda\\source\\repos\\Ex Claudio2\\Ex Claudio2 Ex2\\Ex Claudio2 Ex2.csproj",
+        "projectUniqueName": "C:\\Users\\maria.laholanda\\source\\Ex Claudio2\\Ex Claudio2 Ex2\\Ex Claudio2 Ex2.csproj",
         "projectName": "Ex Claudio2 Ex2",
-        "projectPath": "C:\\Users\\maria.laholanda\\source\\repos\\Ex Claudio2\\Ex Claudio2 Ex2\\Ex Claudio2 Ex2.csproj",
+        "projectPath": "C:\\Users\\maria.laholanda\\source\\Ex Claudio2\\Ex Claudio2 Ex2\\Ex Claudio2 Ex2.csproj",
         "packagesPath": "C:\\Users\\maria.laholanda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria.laholanda\\source\\repos\\Ex Claudio2\\Ex Claudio2 Ex2\\obj\\",
+        "outputPath": "C:\\Users\\maria.laholanda\\source\\Ex Claudio2\\Ex Claudio2 Ex2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
