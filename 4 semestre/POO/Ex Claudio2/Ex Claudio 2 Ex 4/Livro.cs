@@ -157,6 +157,31 @@ namespace Ex_Claudio_2_Ex_4
             idiomaLivro = (idioma)int.Parse(Console.ReadLine());
 
         }
+
+        public Livro(string nome, string editora, int iSBN, string autores, capa capaLivro, int edicao, int nPag, genero generoLivro, formato formatoLivro, idioma idiomaLivro, bool emprestimo)
+        {
+            Nome = nome;
+            Editora = editora;
+            ISBN = iSBN;
+            Autores = autores;
+            CapaLivro = capaLivro;
+            Edicao = edicao;
+            NPag = nPag;
+            GeneroLivro = generoLivro;
+            FormatoLivro = formatoLivro;
+            IdiomaLivro = idiomaLivro;
+            Emprestimo = emprestimo;
+            Nome = nome;
+            Editora = editora;
+            ISBN = iSBN;
+            Autores = autores;
+            CapaLivro = capaLivro;
+            Edicao = edicao;
+            NPag = nPag;
+            GeneroLivro = generoLivro;
+            FormatoLivro = formatoLivro;
+            IdiomaLivro = idiomaLivro;
+        }
     }
 
 }
