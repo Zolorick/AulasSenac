@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maria.laholanda\\source\\Ex Claudio2\\Ex Claudio2 Ex 3\\Ex Claudio2 Ex 3.csproj": {}
+    "C:\\Users\\maria.laholanda\\Documents\\GitHub\\AulasSenac\\4 semestre\\POO\\Ex Claudio2\\Ex Claudio2 Ex 3\\Ex Claudio2 Ex 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maria.laholanda\\source\\Ex Claudio2\\Ex Claudio2 Ex 3\\Ex Claudio2 Ex 3.csproj": {
+    "C:\\Users\\maria.laholanda\\Documents\\GitHub\\AulasSenac\\4 semestre\\POO\\Ex Claudio2\\Ex Claudio2 Ex 3\\Ex Claudio2 Ex 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria.laholanda\\source\\Ex Claudio2\\Ex Claudio2 Ex 3\\Ex Claudio2 Ex 3.csproj",
+        "projectUniqueName": "C:\\Users\\maria.laholanda\\Documents\\GitHub\\AulasSenac\\4 semestre\\POO\\Ex Claudio2\\Ex Claudio2 Ex 3\\Ex Claudio2 Ex 3.csproj",
         "projectName": "Ex Claudio2 Ex 3",
-        "projectPath": "C:\\Users\\maria.laholanda\\source\\Ex Claudio2\\Ex Claudio2 Ex 3\\Ex Claudio2 Ex 3.csproj",
+        "projectPath": "C:\\Users\\maria.laholanda\\Documents\\GitHub\\AulasSenac\\4 semestre\\POO\\Ex Claudio2\\Ex Claudio2 Ex 3\\Ex Claudio2 Ex 3.csproj",
         "packagesPath": "C:\\Users\\maria.laholanda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria.laholanda\\source\\Ex Claudio2\\Ex Claudio2 Ex 3\\obj\\",
+        "outputPath": "C:\\Users\\maria.laholanda\\Documents\\GitHub\\AulasSenac\\4 semestre\\POO\\Ex Claudio2\\Ex Claudio2 Ex 3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,7 +39,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -60,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
