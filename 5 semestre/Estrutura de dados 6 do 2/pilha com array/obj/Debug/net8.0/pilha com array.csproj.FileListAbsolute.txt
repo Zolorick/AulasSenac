@@ -1,0 +1,14 @@
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\pilha com array\bin\Debug\net8.0\pilha com array.exe
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\pilha com array\bin\Debug\net8.0\pilha com array.deps.json
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\pilha com array\bin\Debug\net8.0\pilha com array.runtimeconfig.json
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\pilha com array\bin\Debug\net8.0\pilha com array.dll
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\pilha com array\bin\Debug\net8.0\pilha com array.pdb
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\pilha com array\obj\Debug\net8.0\pilha com array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\pilha com array\obj\Debug\net8.0\pilha com array.AssemblyInfoInputs.cache
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\pilha com array\obj\Debug\net8.0\pilha com array.AssemblyInfo.cs
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\pilha com array\obj\Debug\net8.0\pilha com array.csproj.CoreCompileInputs.cache
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\pilha com array\obj\Debug\net8.0\pilha com array.dll
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\pilha com array\obj\Debug\net8.0\refint\pilha com array.dll
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\pilha com array\obj\Debug\net8.0\pilha com array.pdb
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\pilha com array\obj\Debug\net8.0\pilha com array.genruntimeconfig.cache
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\pilha com array\obj\Debug\net8.0\ref\pilha com array.dll

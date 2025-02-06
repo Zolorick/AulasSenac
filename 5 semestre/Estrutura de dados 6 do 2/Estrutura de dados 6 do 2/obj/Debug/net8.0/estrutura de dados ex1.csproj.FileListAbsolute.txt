@@ -1,0 +1,14 @@
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\Estrutura de dados 6 do 2\bin\Debug\net8.0\estrutura de dados ex1.exe
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\Estrutura de dados 6 do 2\bin\Debug\net8.0\estrutura de dados ex1.deps.json
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\Estrutura de dados 6 do 2\bin\Debug\net8.0\estrutura de dados ex1.runtimeconfig.json
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\Estrutura de dados 6 do 2\bin\Debug\net8.0\estrutura de dados ex1.dll
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\Estrutura de dados 6 do 2\bin\Debug\net8.0\estrutura de dados ex1.pdb
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\Estrutura de dados 6 do 2\obj\Debug\net8.0\estrutura de dados ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\Estrutura de dados 6 do 2\obj\Debug\net8.0\estrutura de dados ex1.AssemblyInfoInputs.cache
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\Estrutura de dados 6 do 2\obj\Debug\net8.0\estrutura de dados ex1.AssemblyInfo.cs
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\Estrutura de dados 6 do 2\obj\Debug\net8.0\estrutura de dados ex1.csproj.CoreCompileInputs.cache
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\Estrutura de dados 6 do 2\obj\Debug\net8.0\estrutura de dados ex1.dll
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\Estrutura de dados 6 do 2\obj\Debug\net8.0\refint\estrutura de dados ex1.dll
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\Estrutura de dados 6 do 2\obj\Debug\net8.0\estrutura de dados ex1.pdb
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\Estrutura de dados 6 do 2\obj\Debug\net8.0\estrutura de dados ex1.genruntimeconfig.cache
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\Estrutura de dados 6 do 2\obj\Debug\net8.0\ref\estrutura de dados ex1.dll

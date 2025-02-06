@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "estrutura de dados ex1", "Estrutura de dados 6 do 2\estrutura de dados ex1.csproj", "{7029F22B-E3C3-4FC7-83F4-E41244DC14CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "estrutura de dados ex2", "estrutura de dados ex2\estrutura de dados ex2.csproj", "{873D481A-D918-40E1-846B-468DBEE16EA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "estrutura de dados ex3", "estrutura de dados ex3\estrutura de dados ex3.csproj", "{24196D12-1CC8-4CDD-B330-F1E27A89879D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pilha com array", "pilha com array\pilha com array.csproj", "{C5454CB8-8FE1-490D-9498-160C103850EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7029F22B-E3C3-4FC7-83F4-E41244DC14CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7029F22B-E3C3-4FC7-83F4-E41244DC14CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7029F22B-E3C3-4FC7-83F4-E41244DC14CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7029F22B-E3C3-4FC7-83F4-E41244DC14CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873D481A-D918-40E1-846B-468DBEE16EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873D481A-D918-40E1-846B-468DBEE16EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873D481A-D918-40E1-846B-468DBEE16EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873D481A-D918-40E1-846B-468DBEE16EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24196D12-1CC8-4CDD-B330-F1E27A89879D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24196D12-1CC8-4CDD-B330-F1E27A89879D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24196D12-1CC8-4CDD-B330-F1E27A89879D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24196D12-1CC8-4CDD-B330-F1E27A89879D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5454CB8-8FE1-490D-9498-160C103850EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5454CB8-8FE1-490D-9498-160C103850EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5454CB8-8FE1-490D-9498-160C103850EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5454CB8-8FE1-490D-9498-160C103850EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex2\bin\Debug\net8.0\estrutura de dados ex2.exe
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex2\bin\Debug\net8.0\estrutura de dados ex2.deps.json
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex2\bin\Debug\net8.0\estrutura de dados ex2.runtimeconfig.json
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex2\bin\Debug\net8.0\estrutura de dados ex2.dll
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex2\bin\Debug\net8.0\estrutura de dados ex2.pdb
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex2\obj\Debug\net8.0\estrutura de dados ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex2\obj\Debug\net8.0\estrutura de dados ex2.AssemblyInfoInputs.cache
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex2\obj\Debug\net8.0\estrutura de dados ex2.AssemblyInfo.cs
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex2\obj\Debug\net8.0\estrutura de dados ex2.csproj.CoreCompileInputs.cache
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex2\obj\Debug\net8.0\estrutura de dados ex2.dll
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex2\obj\Debug\net8.0\refint\estrutura de dados ex2.dll
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex2\obj\Debug\net8.0\estrutura de dados ex2.pdb
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex2\obj\Debug\net8.0\estrutura de dados ex2.genruntimeconfig.cache
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex2\obj\Debug\net8.0\ref\estrutura de dados ex2.dll

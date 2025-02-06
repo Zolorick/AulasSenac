@@ -1,0 +1,14 @@
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex3\bin\Debug\net8.0\estrutura de dados ex3.exe
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex3\bin\Debug\net8.0\estrutura de dados ex3.deps.json
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex3\bin\Debug\net8.0\estrutura de dados ex3.runtimeconfig.json
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex3\bin\Debug\net8.0\estrutura de dados ex3.dll
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex3\bin\Debug\net8.0\estrutura de dados ex3.pdb
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex3\obj\Debug\net8.0\estrutura de dados ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex3\obj\Debug\net8.0\estrutura de dados ex3.AssemblyInfoInputs.cache
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex3\obj\Debug\net8.0\estrutura de dados ex3.AssemblyInfo.cs
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex3\obj\Debug\net8.0\estrutura de dados ex3.csproj.CoreCompileInputs.cache
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex3\obj\Debug\net8.0\estrutura de dados ex3.dll
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex3\obj\Debug\net8.0\refint\estrutura de dados ex3.dll
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex3\obj\Debug\net8.0\estrutura de dados ex3.pdb
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex3\obj\Debug\net8.0\estrutura de dados ex3.genruntimeconfig.cache
+C:\Users\maria.laholanda\source\repos\Estrutura de dados 6 do 2\estrutura de dados ex3\obj\Debug\net8.0\ref\estrutura de dados ex3.dll
