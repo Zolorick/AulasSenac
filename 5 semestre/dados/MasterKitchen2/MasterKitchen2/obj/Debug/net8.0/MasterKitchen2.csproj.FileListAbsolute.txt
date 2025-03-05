@@ -12,3 +12,18 @@ C:\Users\Maria\source\Repos\GitHub\AulasSenac\MasterKitchen2\MasterKitchen2\obj\
 C:\Users\Maria\source\Repos\GitHub\AulasSenac\MasterKitchen2\MasterKitchen2\obj\Debug\net8.0\MasterKitchen2.pdb
 C:\Users\Maria\source\Repos\GitHub\AulasSenac\MasterKitchen2\MasterKitchen2\obj\Debug\net8.0\MasterKitchen2.genruntimeconfig.cache
 C:\Users\Maria\source\Repos\GitHub\AulasSenac\MasterKitchen2\MasterKitchen2\obj\Debug\net8.0\ref\MasterKitchen2.dll
+C:\Users\Maria\source\GitHub\AulasSenac\5 semestre\dados\MasterKitchen2\MasterKitchen2\bin\Debug\net8.0\MasterKitchen2.exe
+C:\Users\Maria\source\GitHub\AulasSenac\5 semestre\dados\MasterKitchen2\MasterKitchen2\bin\Debug\net8.0\MasterKitchen2.deps.json
+C:\Users\Maria\source\GitHub\AulasSenac\5 semestre\dados\MasterKitchen2\MasterKitchen2\bin\Debug\net8.0\MasterKitchen2.runtimeconfig.json
+C:\Users\Maria\source\GitHub\AulasSenac\5 semestre\dados\MasterKitchen2\MasterKitchen2\bin\Debug\net8.0\MasterKitchen2.dll
+C:\Users\Maria\source\GitHub\AulasSenac\5 semestre\dados\MasterKitchen2\MasterKitchen2\bin\Debug\net8.0\MasterKitchen2.pdb
+C:\Users\Maria\source\GitHub\AulasSenac\5 semestre\dados\MasterKitchen2\MasterKitchen2\obj\Debug\net8.0\MasterKitchen2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\source\GitHub\AulasSenac\5 semestre\dados\MasterKitchen2\MasterKitchen2\obj\Debug\net8.0\MasterKitchen2.AssemblyInfoInputs.cache
+C:\Users\Maria\source\GitHub\AulasSenac\5 semestre\dados\MasterKitchen2\MasterKitchen2\obj\Debug\net8.0\MasterKitchen2.AssemblyInfo.cs
+C:\Users\Maria\source\GitHub\AulasSenac\5 semestre\dados\MasterKitchen2\MasterKitchen2\obj\Debug\net8.0\MasterKitchen2.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\GitHub\AulasSenac\5 semestre\dados\MasterKitchen2\MasterKitchen2\obj\Debug\net8.0\MasterKitchen2.sourcelink.json
+C:\Users\Maria\source\GitHub\AulasSenac\5 semestre\dados\MasterKitchen2\MasterKitchen2\obj\Debug\net8.0\MasterKitchen2.dll
+C:\Users\Maria\source\GitHub\AulasSenac\5 semestre\dados\MasterKitchen2\MasterKitchen2\obj\Debug\net8.0\refint\MasterKitchen2.dll
+C:\Users\Maria\source\GitHub\AulasSenac\5 semestre\dados\MasterKitchen2\MasterKitchen2\obj\Debug\net8.0\MasterKitchen2.pdb
+C:\Users\Maria\source\GitHub\AulasSenac\5 semestre\dados\MasterKitchen2\MasterKitchen2\obj\Debug\net8.0\MasterKitchen2.genruntimeconfig.cache
+C:\Users\Maria\source\GitHub\AulasSenac\5 semestre\dados\MasterKitchen2\MasterKitchen2\obj\Debug\net8.0\ref\MasterKitchen2.dll

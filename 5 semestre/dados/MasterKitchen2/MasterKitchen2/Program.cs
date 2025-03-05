@@ -1,6 +1,21 @@
 ﻿using MasterKitchen2;
 using System.Runtime.InteropServices;
 
+Fila pedidos = new Fila(3);
+
+
+pedidos.Adicionar("Coxinha");
+pedidos.Adicionar("Pastel");
+pedidos.Adicionar("Bolinho de bacalhau");
+pedidos.Adicionar("Coxinha");
+
+
+pedidos.Retirar();
+pedidos.Adicionar("Pastel");
+pedidos.Retirar();
+
+
+/*
 Prato p1 = new Prato();
 Prato p2 = new Prato();
 Prato p3 = new Prato();
@@ -42,3 +57,4 @@ foreach (Prato p in pratos)
 {
     pilha_Limpo.Adicionar(p);
 }   
+*/

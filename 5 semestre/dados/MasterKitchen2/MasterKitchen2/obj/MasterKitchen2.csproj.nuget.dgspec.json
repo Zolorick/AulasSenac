@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maria\\source\\Repos\\GitHub\\AulasSenac\\MasterKitchen2\\MasterKitchen2\\MasterKitchen2.csproj": {}
+    "C:\\Users\\Maria\\source\\GitHub\\AulasSenac\\5 semestre\\dados\\MasterKitchen2\\MasterKitchen2\\MasterKitchen2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maria\\source\\Repos\\GitHub\\AulasSenac\\MasterKitchen2\\MasterKitchen2\\MasterKitchen2.csproj": {
+    "C:\\Users\\Maria\\source\\GitHub\\AulasSenac\\5 semestre\\dados\\MasterKitchen2\\MasterKitchen2\\MasterKitchen2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maria\\source\\Repos\\GitHub\\AulasSenac\\MasterKitchen2\\MasterKitchen2\\MasterKitchen2.csproj",
+        "projectUniqueName": "C:\\Users\\Maria\\source\\GitHub\\AulasSenac\\5 semestre\\dados\\MasterKitchen2\\MasterKitchen2\\MasterKitchen2.csproj",
         "projectName": "MasterKitchen2",
-        "projectPath": "C:\\Users\\Maria\\source\\Repos\\GitHub\\AulasSenac\\MasterKitchen2\\MasterKitchen2\\MasterKitchen2.csproj",
+        "projectPath": "C:\\Users\\Maria\\source\\GitHub\\AulasSenac\\5 semestre\\dados\\MasterKitchen2\\MasterKitchen2\\MasterKitchen2.csproj",
         "packagesPath": "C:\\Users\\Maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maria\\source\\Repos\\GitHub\\AulasSenac\\MasterKitchen2\\MasterKitchen2\\obj\\",
+        "outputPath": "C:\\Users\\Maria\\source\\GitHub\\AulasSenac\\5 semestre\\dados\\MasterKitchen2\\MasterKitchen2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
