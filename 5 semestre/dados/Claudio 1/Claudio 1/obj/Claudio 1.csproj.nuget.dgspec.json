@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maria.laholanda\\Documents\\GitHub\\AulasSenac\\5 semestre\\dados\\MasterKitchen2\\MasterKitchen2\\MasterKitchen2.csproj": {}
+    "C:\\Users\\maria.laholanda\\source\\repos\\Claudio 1\\Claudio 1\\Claudio 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maria.laholanda\\Documents\\GitHub\\AulasSenac\\5 semestre\\dados\\MasterKitchen2\\MasterKitchen2\\MasterKitchen2.csproj": {
+    "C:\\Users\\maria.laholanda\\source\\repos\\Claudio 1\\Claudio 1\\Claudio 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria.laholanda\\Documents\\GitHub\\AulasSenac\\5 semestre\\dados\\MasterKitchen2\\MasterKitchen2\\MasterKitchen2.csproj",
-        "projectName": "MasterKitchen2",
-        "projectPath": "C:\\Users\\maria.laholanda\\Documents\\GitHub\\AulasSenac\\5 semestre\\dados\\MasterKitchen2\\MasterKitchen2\\MasterKitchen2.csproj",
+        "projectUniqueName": "C:\\Users\\maria.laholanda\\source\\repos\\Claudio 1\\Claudio 1\\Claudio 1.csproj",
+        "projectName": "Claudio 1",
+        "projectPath": "C:\\Users\\maria.laholanda\\source\\repos\\Claudio 1\\Claudio 1\\Claudio 1.csproj",
         "packagesPath": "C:\\Users\\maria.laholanda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria.laholanda\\Documents\\GitHub\\AulasSenac\\5 semestre\\dados\\MasterKitchen2\\MasterKitchen2\\obj\\",
+        "outputPath": "C:\\Users\\maria.laholanda\\source\\repos\\Claudio 1\\Claudio 1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
