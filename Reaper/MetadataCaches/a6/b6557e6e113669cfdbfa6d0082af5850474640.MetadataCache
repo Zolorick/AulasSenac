@@ -1,0 +1,13 @@
+C10018 "C:\Users\maria.laholanda\Documents\GitHub\AulasSenac\Bibliotecas\Sonniss_parte\SoundHolder - Chainsaw"
+F "chainsaw gas big engine idle mono.wav" 15508612 0 1521554346 0
+D y 0000-00-0 d "chainsaw, gas, engine, big, stihl, idle" s 96000 n 2
+D r 41:52.853 l 0:26.922 i 24
+F "chainsaw gas big engine turn on and off mono.wav" 2323588 0 1521554330 0
+D y 0000-00-0 d "chainsaw, gas, engine, big, stihl, sawing, on, off" s 96000 n 2
+D r 36:49.770 l 0:04.032 i 24
+F "chainsaw gas small engine gas pressing and sawing high rpm mono.wav" 20325508 0 1521554344 0
+D y 0000-00-0 d "chainsaw, gas, engine, small, stihl, sawing, pressing, sawing, high, rpm" s 96000 n 2
+D l 0:35.285 i 24
+F "chainsaw gas small engine on and off mono.wav" 6802180 0 1521554344 0
+D y 0000-00-0 d "chainsaw, gas, engine, small, stihl, sawing, turn, on, off" s 96000 n 2
+D r 1:02.805 l 0:11.807 i 24
